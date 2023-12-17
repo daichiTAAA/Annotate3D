@@ -1,4 +1,12 @@
 Django
 python-dotenv
 dash
-django-plotly-dash
+django_plotly_dash
+plotly
+dpd-components
+dash-bootstrap-components
+django-bootstrap4
+pandas
+dash_mantine_components
+dpd_static_support
+django_redis
