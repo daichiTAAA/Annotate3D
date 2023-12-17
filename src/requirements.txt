@@ -1,2 +1,4 @@
 Django
 python-dotenv
+dash
+django-plotly-dash
