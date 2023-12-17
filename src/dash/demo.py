@@ -36,9 +36,6 @@ from dash import Dash
 from dash import dcc, html
 from dash.dependencies import MATCH, ALL
 
-import plotly.graph_objs as go
-
-import dpd_components as dpd
 
 from dash.exceptions import PreventUpdate
 
